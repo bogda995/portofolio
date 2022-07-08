@@ -103,5 +103,7 @@
       }
     }
   },
-  "defaultProject": "portofolio-website"
+  "cli": {
+    "analytics": false
+  }
 }
